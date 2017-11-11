@@ -1,0 +1,10 @@
+{
+    "require": {
+        "jbzoo/image": "^3.0"
+    },
+    "autoload": {
+    	"classmap": [
+    		"./app/"
+    	]
+    }
+}

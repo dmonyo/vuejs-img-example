@@ -20,7 +20,7 @@ In order to get this application up and running you need to have installed PHP (
 Once you have PHP and composer up and running, on a command line type in the following commands:
 
 ```
-$ cd path-to-your-app-root-folder
+$ cd path/to/your/app/root/folder
 $ composer install
 ```
 
